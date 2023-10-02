@@ -1,0 +1,8 @@
+{
+	'jdbcDriver' : 'com.mysql.cj.jdbc.Driver',
+	'connectionUrl' : 'jdbc:mysql://localhost:3306/tmschool',
+	'username' : 'root',
+	'password' : 'ISRO',
+	'packageName' : 'com.thinking.machine.pojo',
+	'jarName' : 'pojo'
+}

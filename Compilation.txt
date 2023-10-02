@@ -1,0 +1,4 @@
+Run Query
+java -classpath E:\Tomcat9\webapps\Application;E:\Tomcat9\webapps\Application\lib\*;E:\Tomcat9\webapps\Application\disk\pojo.jar;. Test
+Compile Query
+javac -classpath E:\Tomcat9\webapps\Application;E:\Tomcat9\webapps\Application\lib\*;E:\Tomcat9\webapps\Application\disk\pojo.jar;. *.java
