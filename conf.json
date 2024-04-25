@@ -1,8 +1,8 @@
 {
 	'jdbcDriver' : 'com.mysql.cj.jdbc.Driver',
-	'connectionUrl' : 'jdbc:mysql://localhost:3306/tmschool',
-	'username' : 'root',
-	'password' : 'ISRO',
+	'connectionUrl' : 'Database URL',
+	'username' : 'your username',
+	'password' : 'your password',
 	'packageName' : 'com.thinking.machine.pojo',
 	'jarName' : 'pojo'
 }
