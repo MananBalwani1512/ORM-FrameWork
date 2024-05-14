@@ -21,7 +21,7 @@ The Repository is of making connection with database and access database from th
 11. Then call .where to add condition for a column or .orderBy to add order by caluse.
 12. For condtion to get > sign in clause add .gt(int val) for < add .lt(int val) and for = add .eq(int val).
 13. Now at last to fire the query add .fire().
-14. The return type of this statement is list of objects traverse the lost to get all credentials.
+14. The return type of this statement is list of objects traverse the list to get all credentials.
 # EXAMPLE : 
 In this project I have provided the conf.json to show how to give the credentials of database.
 And Test.java to show how to use all the CRUD Operations of Data Base.
